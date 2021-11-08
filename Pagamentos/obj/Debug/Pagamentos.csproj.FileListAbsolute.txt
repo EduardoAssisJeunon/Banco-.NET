@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Pagamentos\bin\Debug\Pagamentos.exe.config
+C:\Users\eduar\source\repos\Pagamentos\bin\Debug\Pagamentos.exe
+C:\Users\eduar\source\repos\Pagamentos\bin\Debug\Pagamentos.pdb
+C:\Users\eduar\source\repos\Pagamentos\obj\Debug\Pagamentos.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Pagamentos\obj\Debug\Pagamentos.Form1.resources
+C:\Users\eduar\source\repos\Pagamentos\obj\Debug\Pagamentos.Properties.Resources.resources
+C:\Users\eduar\source\repos\Pagamentos\obj\Debug\Pagamentos.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Pagamentos\obj\Debug\Pagamentos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Pagamentos\obj\Debug\Pagamentos.exe
+C:\Users\eduar\source\repos\Pagamentos\obj\Debug\Pagamentos.pdb

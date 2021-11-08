@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Idade_pessoas\bin\Debug\Idade_pessoas.exe.config
+C:\Users\eduar\source\repos\Idade_pessoas\bin\Debug\Idade_pessoas.exe
+C:\Users\eduar\source\repos\Idade_pessoas\bin\Debug\Idade_pessoas.pdb
+C:\Users\eduar\source\repos\Idade_pessoas\obj\Debug\Idade_pessoas.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Idade_pessoas\obj\Debug\Idade_pessoas.Form1.resources
+C:\Users\eduar\source\repos\Idade_pessoas\obj\Debug\Idade_pessoas.Properties.Resources.resources
+C:\Users\eduar\source\repos\Idade_pessoas\obj\Debug\Idade_pessoas.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Idade_pessoas\obj\Debug\Idade_pessoas.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Idade_pessoas\obj\Debug\Idade_pessoas.exe
+C:\Users\eduar\source\repos\Idade_pessoas\obj\Debug\Idade_pessoas.pdb

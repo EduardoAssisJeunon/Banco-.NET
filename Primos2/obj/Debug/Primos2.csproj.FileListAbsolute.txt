@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Primos2\bin\Debug\Primos2.exe.config
+C:\Users\eduar\source\repos\Primos2\bin\Debug\Primos2.exe
+C:\Users\eduar\source\repos\Primos2\bin\Debug\Primos2.pdb
+C:\Users\eduar\source\repos\Primos2\obj\Debug\Primos2.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Primos2\obj\Debug\Primos2.Form1.resources
+C:\Users\eduar\source\repos\Primos2\obj\Debug\Primos2.Properties.Resources.resources
+C:\Users\eduar\source\repos\Primos2\obj\Debug\Primos2.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Primos2\obj\Debug\Primos2.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Primos2\obj\Debug\Primos2.exe
+C:\Users\eduar\source\repos\Primos2\obj\Debug\Primos2.pdb

@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Operacoes\bin\Debug\Operacoes.exe.config
+C:\Users\eduar\source\repos\Operacoes\bin\Debug\Operacoes.exe
+C:\Users\eduar\source\repos\Operacoes\bin\Debug\Operacoes.pdb
+C:\Users\eduar\source\repos\Operacoes\obj\Debug\Operacoes.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Operacoes\obj\Debug\Operacoes.Form1.resources
+C:\Users\eduar\source\repos\Operacoes\obj\Debug\Operacoes.Properties.Resources.resources
+C:\Users\eduar\source\repos\Operacoes\obj\Debug\Operacoes.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Operacoes\obj\Debug\Operacoes.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Operacoes\obj\Debug\Operacoes.exe
+C:\Users\eduar\source\repos\Operacoes\obj\Debug\Operacoes.pdb

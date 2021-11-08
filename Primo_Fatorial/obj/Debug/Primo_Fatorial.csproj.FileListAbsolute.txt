@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Primo_Fatorial\bin\Debug\Primo_Fatorial.exe.config
+C:\Users\eduar\source\repos\Primo_Fatorial\bin\Debug\Primo_Fatorial.exe
+C:\Users\eduar\source\repos\Primo_Fatorial\bin\Debug\Primo_Fatorial.pdb
+C:\Users\eduar\source\repos\Primo_Fatorial\obj\Debug\Primo_Fatorial.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Primo_Fatorial\obj\Debug\Primo_Fatorial.Form1.resources
+C:\Users\eduar\source\repos\Primo_Fatorial\obj\Debug\Primo_Fatorial.Properties.Resources.resources
+C:\Users\eduar\source\repos\Primo_Fatorial\obj\Debug\Primo_Fatorial.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Primo_Fatorial\obj\Debug\Primo_Fatorial.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Primo_Fatorial\obj\Debug\Primo_Fatorial.exe
+C:\Users\eduar\source\repos\Primo_Fatorial\obj\Debug\Primo_Fatorial.pdb

@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Class Professor\bin\Debug\Class Professor.exe.config
+C:\Users\eduar\source\repos\Class Professor\bin\Debug\Class Professor.exe
+C:\Users\eduar\source\repos\Class Professor\bin\Debug\Class Professor.pdb
+C:\Users\eduar\source\repos\Class Professor\obj\Debug\Class Professor.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Class Professor\obj\Debug\Class Professor.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Class Professor\obj\Debug\Class Professor.exe
+C:\Users\eduar\source\repos\Class Professor\obj\Debug\Class Professor.pdb

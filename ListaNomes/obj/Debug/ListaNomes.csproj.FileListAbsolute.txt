@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\ListaNomes\bin\Debug\ListaNomes.exe.config
+C:\Users\eduar\source\repos\ListaNomes\bin\Debug\ListaNomes.exe
+C:\Users\eduar\source\repos\ListaNomes\bin\Debug\ListaNomes.pdb
+C:\Users\eduar\source\repos\ListaNomes\obj\Debug\ListaNomes.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\ListaNomes\obj\Debug\ListaNomes.Form1.resources
+C:\Users\eduar\source\repos\ListaNomes\obj\Debug\ListaNomes.Properties.Resources.resources
+C:\Users\eduar\source\repos\ListaNomes\obj\Debug\ListaNomes.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\ListaNomes\obj\Debug\ListaNomes.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\ListaNomes\obj\Debug\ListaNomes.exe
+C:\Users\eduar\source\repos\ListaNomes\obj\Debug\ListaNomes.pdb

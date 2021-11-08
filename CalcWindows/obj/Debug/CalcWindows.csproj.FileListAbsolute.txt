@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\CalcWindows\bin\Debug\CalcWindows.exe.config
+C:\Users\eduar\source\repos\CalcWindows\bin\Debug\CalcWindows.exe
+C:\Users\eduar\source\repos\CalcWindows\bin\Debug\CalcWindows.pdb
+C:\Users\eduar\source\repos\CalcWindows\obj\Debug\CalcWindows.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\CalcWindows\obj\Debug\CalcWindows.Form1.resources
+C:\Users\eduar\source\repos\CalcWindows\obj\Debug\CalcWindows.Properties.Resources.resources
+C:\Users\eduar\source\repos\CalcWindows\obj\Debug\CalcWindows.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\CalcWindows\obj\Debug\CalcWindows.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\CalcWindows\obj\Debug\CalcWindows.exe
+C:\Users\eduar\source\repos\CalcWindows\obj\Debug\CalcWindows.pdb

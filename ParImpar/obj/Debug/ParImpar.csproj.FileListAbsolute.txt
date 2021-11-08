@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\ParImpar\bin\Debug\ParImpar.exe.config
+C:\Users\eduar\source\repos\ParImpar\bin\Debug\ParImpar.exe
+C:\Users\eduar\source\repos\ParImpar\bin\Debug\ParImpar.pdb
+C:\Users\eduar\source\repos\ParImpar\obj\Debug\ParImpar.Form1.resources
+C:\Users\eduar\source\repos\ParImpar\obj\Debug\ParImpar.Properties.Resources.resources
+C:\Users\eduar\source\repos\ParImpar\obj\Debug\ParImpar.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\ParImpar\obj\Debug\ParImpar.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\ParImpar\obj\Debug\ParImpar.exe
+C:\Users\eduar\source\repos\ParImpar\obj\Debug\ParImpar.pdb
+C:\Users\eduar\source\repos\ParImpar\obj\Debug\ParImpar.csprojAssemblyReference.cache

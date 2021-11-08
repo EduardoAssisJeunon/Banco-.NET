@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\MaiorNumero\bin\Debug\MaiorNumero.exe.config
+C:\Users\eduar\source\repos\MaiorNumero\bin\Debug\MaiorNumero.exe
+C:\Users\eduar\source\repos\MaiorNumero\bin\Debug\MaiorNumero.pdb
+C:\Users\eduar\source\repos\MaiorNumero\obj\Debug\MaiorNumero.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\MaiorNumero\obj\Debug\MaiorNumero.Form1.resources
+C:\Users\eduar\source\repos\MaiorNumero\obj\Debug\MaiorNumero.Properties.Resources.resources
+C:\Users\eduar\source\repos\MaiorNumero\obj\Debug\MaiorNumero.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\MaiorNumero\obj\Debug\MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\MaiorNumero\obj\Debug\MaiorNumero.exe
+C:\Users\eduar\source\repos\MaiorNumero\obj\Debug\MaiorNumero.pdb

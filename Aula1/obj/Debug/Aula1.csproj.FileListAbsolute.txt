@@ -1,0 +1,2 @@
+C:\Users\eduar\source\repos\Aula1\obj\Debug\Aula1.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Aula1\obj\Debug\Aula1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Aula EAD\bin\Debug\Aula EAD.exe.config
+C:\Users\eduar\source\repos\Aula EAD\bin\Debug\Aula EAD.exe
+C:\Users\eduar\source\repos\Aula EAD\bin\Debug\Aula EAD.pdb
+C:\Users\eduar\source\repos\Aula EAD\obj\Debug\Aula EAD.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Aula EAD\obj\Debug\Aula_EAD.Form1.resources
+C:\Users\eduar\source\repos\Aula EAD\obj\Debug\Aula_EAD.Properties.Resources.resources
+C:\Users\eduar\source\repos\Aula EAD\obj\Debug\Aula EAD.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Aula EAD\obj\Debug\Aula EAD.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Aula EAD\obj\Debug\Aula EAD.exe
+C:\Users\eduar\source\repos\Aula EAD\obj\Debug\Aula EAD.pdb

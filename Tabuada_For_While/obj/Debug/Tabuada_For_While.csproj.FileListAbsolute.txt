@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Tabuada_For_While\obj\Debug\Tabuada_For_While.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Tabuada_For_While\obj\Debug\Tabuada_For_While.Form1.resources
+C:\Users\eduar\source\repos\Tabuada_For_While\obj\Debug\Tabuada_For_While.Properties.Resources.resources
+C:\Users\eduar\source\repos\Tabuada_For_While\obj\Debug\Tabuada_For_While.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Tabuada_For_While\obj\Debug\Tabuada_For_While.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Tabuada_For_While\bin\Debug\Tabuada_For_While.exe.config
+C:\Users\eduar\source\repos\Tabuada_For_While\bin\Debug\Tabuada_For_While.exe
+C:\Users\eduar\source\repos\Tabuada_For_While\bin\Debug\Tabuada_For_While.pdb
+C:\Users\eduar\source\repos\Tabuada_For_While\obj\Debug\Tabuada_For_While.exe
+C:\Users\eduar\source\repos\Tabuada_For_While\obj\Debug\Tabuada_For_While.pdb

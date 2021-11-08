@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Aplicacoes\bin\Debug\Aplicacoes.exe.config
+C:\Users\eduar\source\repos\Aplicacoes\bin\Debug\Aplicacoes.exe
+C:\Users\eduar\source\repos\Aplicacoes\bin\Debug\Aplicacoes.pdb
+C:\Users\eduar\source\repos\Aplicacoes\obj\Debug\Aplicacoes.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Aplicacoes\obj\Debug\Aplicacoes.Form1.resources
+C:\Users\eduar\source\repos\Aplicacoes\obj\Debug\Aplicacoes.Properties.Resources.resources
+C:\Users\eduar\source\repos\Aplicacoes\obj\Debug\Aplicacoes.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Aplicacoes\obj\Debug\Aplicacoes.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Aplicacoes\obj\Debug\Aplicacoes.exe
+C:\Users\eduar\source\repos\Aplicacoes\obj\Debug\Aplicacoes.pdb

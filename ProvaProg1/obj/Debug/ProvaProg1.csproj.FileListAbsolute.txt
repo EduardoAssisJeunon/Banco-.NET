@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\ProvaProg1\obj\Debug\ProvaProg1.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\ProvaProg1\obj\Debug\ProvaProg1.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\ProvaProg1\bin\Debug\ProvaProg1.exe.config
+C:\Users\eduar\source\repos\ProvaProg1\bin\Debug\ProvaProg1.exe
+C:\Users\eduar\source\repos\ProvaProg1\bin\Debug\ProvaProg1.pdb
+C:\Users\eduar\source\repos\ProvaProg1\obj\Debug\ProvaProg1.exe
+C:\Users\eduar\source\repos\ProvaProg1\obj\Debug\ProvaProg1.pdb

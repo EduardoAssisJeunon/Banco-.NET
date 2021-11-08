@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\GasEta\bin\Debug\GasEta.exe.config
+C:\Users\eduar\source\repos\GasEta\bin\Debug\GasEta.exe
+C:\Users\eduar\source\repos\GasEta\bin\Debug\GasEta.pdb
+C:\Users\eduar\source\repos\GasEta\obj\Debug\GasEta.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\GasEta\obj\Debug\GasEta.Form1.resources
+C:\Users\eduar\source\repos\GasEta\obj\Debug\GasEta.Properties.Resources.resources
+C:\Users\eduar\source\repos\GasEta\obj\Debug\GasEta.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\GasEta\obj\Debug\GasEta.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\GasEta\obj\Debug\GasEta.exe
+C:\Users\eduar\source\repos\GasEta\obj\Debug\GasEta.pdb

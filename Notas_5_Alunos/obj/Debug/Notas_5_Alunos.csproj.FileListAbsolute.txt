@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Notas_5_Alunos\bin\Debug\Notas_5_Alunos.exe.config
+C:\Users\eduar\source\repos\Notas_5_Alunos\bin\Debug\Notas_5_Alunos.exe
+C:\Users\eduar\source\repos\Notas_5_Alunos\bin\Debug\Notas_5_Alunos.pdb
+C:\Users\eduar\source\repos\Notas_5_Alunos\obj\Debug\Notas_5_Alunos.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Notas_5_Alunos\obj\Debug\Notas_5_Alunos.Form1.resources
+C:\Users\eduar\source\repos\Notas_5_Alunos\obj\Debug\Notas_5_Alunos.Properties.Resources.resources
+C:\Users\eduar\source\repos\Notas_5_Alunos\obj\Debug\Notas_5_Alunos.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Notas_5_Alunos\obj\Debug\Notas_5_Alunos.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Notas_5_Alunos\obj\Debug\Notas_5_Alunos.exe
+C:\Users\eduar\source\repos\Notas_5_Alunos\obj\Debug\Notas_5_Alunos.pdb

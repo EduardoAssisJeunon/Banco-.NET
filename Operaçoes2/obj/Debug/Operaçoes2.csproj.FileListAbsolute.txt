@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Operaçoes2\bin\Debug\Operaçoes2.exe.config
+C:\Users\eduar\source\repos\Operaçoes2\bin\Debug\Operaçoes2.exe
+C:\Users\eduar\source\repos\Operaçoes2\bin\Debug\Operaçoes2.pdb
+C:\Users\eduar\source\repos\Operaçoes2\obj\Debug\Operaçoes2.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Operaçoes2\obj\Debug\Operaçoes2.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Operaçoes2\obj\Debug\Operaçoes2.exe
+C:\Users\eduar\source\repos\Operaçoes2\obj\Debug\Operaçoes2.pdb

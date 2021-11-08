@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\Combustível\bin\Debug\Combustível.exe.config
+C:\Users\eduar\source\repos\Combustível\bin\Debug\Combustível.exe
+C:\Users\eduar\source\repos\Combustível\bin\Debug\Combustível.pdb
+C:\Users\eduar\source\repos\Combustível\obj\Debug\Combustível.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Combustível\obj\Debug\Combustível.Form1.resources
+C:\Users\eduar\source\repos\Combustível\obj\Debug\Combustível.Properties.Resources.resources
+C:\Users\eduar\source\repos\Combustível\obj\Debug\Combustível.csproj.GenerateResource.cache
+C:\Users\eduar\source\repos\Combustível\obj\Debug\Combustível.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Combustível\obj\Debug\Combustível.exe
+C:\Users\eduar\source\repos\Combustível\obj\Debug\Combustível.pdb

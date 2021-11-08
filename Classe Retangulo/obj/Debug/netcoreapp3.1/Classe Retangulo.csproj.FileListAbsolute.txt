@@ -1,0 +1,13 @@
+C:\Users\eduar\source\repos\Classe Retangulo\obj\Debug\netcoreapp3.1\Classe Retangulo.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Classe Retangulo\obj\Debug\netcoreapp3.1\Classe Retangulo.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\Classe Retangulo\obj\Debug\netcoreapp3.1\Classe Retangulo.AssemblyInfo.cs
+C:\Users\eduar\source\repos\Classe Retangulo\obj\Debug\netcoreapp3.1\Classe Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Classe Retangulo\bin\Debug\netcoreapp3.1\Classe Retangulo.exe
+C:\Users\eduar\source\repos\Classe Retangulo\bin\Debug\netcoreapp3.1\Classe Retangulo.deps.json
+C:\Users\eduar\source\repos\Classe Retangulo\bin\Debug\netcoreapp3.1\Classe Retangulo.runtimeconfig.json
+C:\Users\eduar\source\repos\Classe Retangulo\bin\Debug\netcoreapp3.1\Classe Retangulo.runtimeconfig.dev.json
+C:\Users\eduar\source\repos\Classe Retangulo\bin\Debug\netcoreapp3.1\Classe Retangulo.dll
+C:\Users\eduar\source\repos\Classe Retangulo\bin\Debug\netcoreapp3.1\Classe Retangulo.pdb
+C:\Users\eduar\source\repos\Classe Retangulo\obj\Debug\netcoreapp3.1\Classe Retangulo.dll
+C:\Users\eduar\source\repos\Classe Retangulo\obj\Debug\netcoreapp3.1\Classe Retangulo.pdb
+C:\Users\eduar\source\repos\Classe Retangulo\obj\Debug\netcoreapp3.1\Classe Retangulo.genruntimeconfig.cache

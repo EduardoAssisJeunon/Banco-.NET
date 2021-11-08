@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\EAD 1º P\obj\Debug\EAD 1º P.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\EAD 1º P\obj\Debug\EAD 1º P.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\EAD 1º P\bin\Debug\EAD 1º P.exe.config
+C:\Users\eduar\source\repos\EAD 1º P\bin\Debug\EAD 1º P.exe
+C:\Users\eduar\source\repos\EAD 1º P\bin\Debug\EAD 1º P.pdb
+C:\Users\eduar\source\repos\EAD 1º P\obj\Debug\EAD 1º P.exe
+C:\Users\eduar\source\repos\EAD 1º P\obj\Debug\EAD 1º P.pdb

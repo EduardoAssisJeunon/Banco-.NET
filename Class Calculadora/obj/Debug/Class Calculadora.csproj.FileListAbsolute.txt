@@ -1,0 +1,7 @@
+C:\Users\eduar\source\repos\Class Calculadora\obj\Debug\Class Calculadora.csprojAssemblyReference.cache
+C:\Users\eduar\source\repos\Class Calculadora\obj\Debug\Class Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\Class Calculadora\bin\Debug\Class Calculadora.exe.config
+C:\Users\eduar\source\repos\Class Calculadora\bin\Debug\Class Calculadora.exe
+C:\Users\eduar\source\repos\Class Calculadora\bin\Debug\Class Calculadora.pdb
+C:\Users\eduar\source\repos\Class Calculadora\obj\Debug\Class Calculadora.exe
+C:\Users\eduar\source\repos\Class Calculadora\obj\Debug\Class Calculadora.pdb

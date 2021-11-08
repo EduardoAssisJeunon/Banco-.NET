@@ -1,0 +1,10 @@
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\bin\Debug\Teste.exe.config
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\bin\Debug\Teste.exe
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\bin\Debug\Teste.pdb
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\obj\Debug\Teste.Form1.resources
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\obj\Debug\Teste.Properties.Resources.resources
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\obj\Debug\Teste.exe
+D:\Perfil\EDUARDO\Estudos\Repos_.NET\Teste\obj\Debug\Teste.pdb
